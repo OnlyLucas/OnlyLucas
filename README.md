@@ -1,5 +1,5 @@
-### Hi there 👋
-<img src=
+### Hello, I'm Lucas :)
+<img src="assets/004b173f6e3d6843df10114e087f30a8.gif">
 
 <!--
 **OnlyLucas/OnlyLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
